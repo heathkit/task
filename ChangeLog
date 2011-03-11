@@ -2,6 +2,8 @@
 ------ current release ---------------------------
 
 1.9.5 ()
+ + Fixed bug #699, which caused autopush to be executed with a wrongly altered
+   'merge' url (thanks to Jan Hruban).
 
 ------ old releases ------------------------------
 
